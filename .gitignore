@@ -1,3 +1,5 @@
+.next
 node_modules
-
-.next/static/webpack/
+*.log
+yarn.lock
+package-lock.json
